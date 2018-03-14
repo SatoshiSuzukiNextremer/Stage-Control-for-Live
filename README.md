@@ -7,6 +7,8 @@ to check the network automatically, and to switch to the safety automatically wh
   
 First, check out "Setup Example.als" in examples folder.  
   
+
+  
 舞台やホールでAbleton Liveを使う方へ向けたMax for Live デバイスです。  
 OSCを用いて、照明と映像との同期・連携を強化します。  
   
