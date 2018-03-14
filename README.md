@@ -15,3 +15,5 @@ OSCを用いて、照明と映像との同期・連携を強化します。
 ・Time Adjustment 同期の際のレイテンシー補正  
 ・OSC-route.maxpat CNMATのものと違い、Abstractionなのでより幅広い環境で動作します。  
 ・Speaker_Test.maxpat スピーカーの確認・調整用。  
+  
+examplesフォルダの"Setup Example.als"をご確認ください。  
