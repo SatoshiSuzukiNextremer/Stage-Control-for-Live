@@ -7,6 +7,8 @@ to check the network automatically, and to switch to the safety automatically wh
   
 First, check out "Setup Example.als" in examples folder.  
   
+[Join our Facebook Group!](https://www.facebook.com/groups/434759513626784/)
+  
 
   
 舞台やホールでAbleton Liveを使う方へ向けたMax for Live デバイスです。  
