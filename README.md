@@ -18,5 +18,5 @@ OSCを用いて、照明と映像との同期・連携を強化します。
 ・OSC-route.maxpat CNMATのものと違い、Abstractionなのでより幅広い環境で動作します。  
 ・Speaker_Test.maxpat スピーカーの確認・調整用。  
   
-ダウンロードは右上の緑のボタンで。
+ダウンロードは右上の緑のボタンです。  
 まずはexamplesフォルダの"Setup Example.als"をご確認ください。  
