@@ -8,15 +8,3 @@ to check the network automatically, and to switch to the safety automatically wh
 First, check out "Setup Example.als" in examples folder.  
   
 ### [Join the facebook group for questions, tips, etc.](https://www.facebook.com/groups/434759513626784/)
-  
-舞台やホールでAbleton Liveを使う方へ向けたMax for Live デバイスです。  
-OSCを用いて、照明と映像との同期・連携を強化します。  
-  
-・OSC Setting.amxd OSCネットワークの構築（メイン・セーフティの2系統）、ネットワークの監視、セーフティネットワークへの自動切り替え  
-・EnvGenerator.amxd 照明や映像の輝度とオーディオの出力の同期  
-・Time Adjustment 同期の際のレイテンシー補正  
-・OSC-route.maxpat CNMATのものと違い、Abstractionなのでより幅広い環境で動作します。  
-・Speaker_Test.maxpat スピーカーの確認・調整用。  
-  
-ダウンロードは右上の緑のボタンです。  
-まずはexamplesフォルダの"Setup Example.als"をご確認ください。  
